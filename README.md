@@ -1,2 +1,2 @@
-# Recipes
+# odin-recipes
 test project
